@@ -1,0 +1,10 @@
+👋 Welcome to EEVO
+Dear Team,
+
+Welcome aboard! You’re now part of the EEVO initiative — the Event & Election Virtual 
+Organizer designed to revolutionize how college departments manage events, elections, finances,
+and cross-functional collaboration.
+
+This project blends technical excellence, real-world compliance, and student
+governance into a unified platform. Whether you're contributing to the backend, 
+frontend, mobile app, or documentation, your role is vital to our success.
